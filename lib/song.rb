@@ -1,7 +1,6 @@
 #require 'pry'
 
 class Song
-
   extend Memorable, Findable
   include Paramable
 
